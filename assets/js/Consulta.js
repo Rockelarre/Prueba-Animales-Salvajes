@@ -1,3 +1,5 @@
+// Consulta asíncrona para obtener datos desde el archivo json
+// Función autoejecutable IIFE
 let animales = (() => {
     const url = "http://127.0.0.1:5500/animales.json";
 
